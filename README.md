@@ -11,8 +11,5 @@
   <ul>
   <li><p><a href="https://www.linkedin.com/in/carlos-henrique-guabiraba-dos-santos-8a6ab01b9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</p></a> </li>
   <li><p><a href="https://myaccount.google.com/?hl=pt_BR&utm_source=OGB&utm_medium=act"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></p></a> </li>
-  <li><p><a href="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"><img src="https://wa.me/(55+71982761774)"</a></p> </li>
-  <li>https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white</li>
-  <a>https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white</a>
-  <a>https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white</a>
+  <li><p><a href="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"</a></p> </li>
  </ul>
