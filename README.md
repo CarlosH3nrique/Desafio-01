@@ -1,3 +1,4 @@
+  <main background-color:black>
   <h1> Esse é o meu 1º Projeto :blush:</h1>
   <h2> Tecnologias utilizadas </h2>
   <ul>
@@ -13,3 +14,4 @@
   <li><p><a href="https://myaccount.google.com/?hl=pt_BR&utm_source=OGB&utm_medium=act"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></p></a> </li>
   <li><p><a href="https://wa.me/5571982761774"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></p></a> </li>
  </ul>
+</main>
