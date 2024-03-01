@@ -1,0 +1,129 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    margin-top: 47px;
+    margin-right: 700px;
+    margin-bottom: 30px;
+    margin-left: 42px;
+    color: #17233D;
+    cursor: pointer;
+    display: inline-block;
+}
+
+main{
+    display: inline-block;
+}
+
+.link-Products {
+    width: 83px;
+    height: 21px;
+    margin-right: 36px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+}
+
+.link-Company {
+    width: 79px;
+    height: 21px;
+    margin-right: 32px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    display: inline-block;
+}
+
+.link-Blog {
+    width: 37px;
+    height: 21px;
+    margin-right: 32px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    display: inline-block;
+}
+
+.link_Log_in{   
+    width: 47px;
+    height: 21px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    display: inline-block;
+}
+
+.button-header{
+    width: 67px;
+    height: 24px;
+    margin-right: 30px;
+    margin-left: 30px;
+    font-weight: 500;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: #4CB538;
+    width: 124px;
+    height: 51px;
+    border-radius: 9px;
+    border-style: groove;
+    border-color: rgb(0, 255, 255);
+    border-width: 7px;
+    cursor:pointer;
+    display: inline-block;
+    filter: drop-shadow(2px 4px 4px rgb(0, 255, 247));
+}
+
+figure {
+    width: 595px;
+    height: 500px;  
+    margin-top: 80px;
+    margin-bottom: 500px;
+    margin-left: 105px; 
+    display: inline-block;
+    filter: drop-shadow(2px 8px 18px#4CB538);
+}
+
+section{
+    display: inline-block;
+    padding-top: 70px;
+    padding-left: 84px;
+}
+
+h1{
+    font-weight:700;
+    font-size: 62px;
+    line-height: 82px;
+    padding: 2px;
+    color:#1bbd4b;
+    text-shadow: 4px 5px 8px rgba(1, 255, 43, 0.868);
+}
+
+p{
+    width: 582px;
+    height: 99px;
+    margin-top: 30px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+.link-section{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    width: 112px;
+    height: 27px;
+    margin-top: 55px;
+    margin-bottom: 30px;
+    cursor: pointer;
+    background-color: transparent;
+    color: #4CB538;
+    
+}
