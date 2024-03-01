@@ -7,7 +7,7 @@
   
 <img src="https://github.com/CarlosH3nrique/Desafio-01/blob/main/img/(Positive)%20Congratulation%20You%20get%2040%20point%20for%20your%20ride.png?raw=true">
 
-<h3>Esses são meus contato só clicar!</h3>
+<h3>Esses são meus contatos só clicar!</h3>
   <ul>
 <p><a href="https://www.linkedin.com/in/carlos-henrique-guabiraba-dos-santos-8a6ab01b9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</p></a>
 <p><a href="https://myaccount.google.com/?hl=pt_BR&utm_source=OGB&utm_medium=act"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></p></a>
