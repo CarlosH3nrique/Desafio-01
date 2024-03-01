@@ -5,7 +5,7 @@
 <li><p><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"</p> </li>
   </ul>
   
-<img src="https://github.com/CarlosH3nrique/Desafio-01/blob/main/img/(Positive)%20Congratulation%20You%20get%2040%20point%20for%20your%20ride.png?raw=true">
+<img src="https://github.com/CarlosH3nrique/Desafio-01/blob/main/img/Captura%20de%20tela%202024-03-01%20173451.png?raw=true">
 
 <h3>Esses são meus contatos só clicar!</h3>
   <ul>
